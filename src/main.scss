@@ -102,8 +102,7 @@ a {
     }
 
     &:hover {
-        text-decoration: none;
-        color: $ui-blue-dark;
+        text-decoration: underline;
     }
 }
 
